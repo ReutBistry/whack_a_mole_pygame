@@ -8,6 +8,7 @@ WINDOW_HEIGHT = 500
 # Colors
 GREEN = (152, 199, 72)
 WHITE = (255, 255, 255)
+BLACK = (0,0,0)
 
 
 # Images
@@ -62,21 +63,14 @@ MIDLINE = 375  # The line where the squirrel disappears
 SQUARE_START_X_POS = START_X_POS_HOL
 SPACE_X_POS_SQUARE = SPACE_X_POS_HOL
 SQUARE_Y_POS = 350
-SQUARE_HEIGHT = HOLE_HEIGHT
+SQUARE_HEIGHT = 606 / 3
 SQUARE_WIDTH = HOLE_WIDTH
 # ####################### PART 3 ####################### #
 # Positions
-SQUIRREL_MAX_Y = 450
+SQUIRREL_MAX_Y = 380
 SQUIRREL_MIN_Y = 220
 
 # Game settings
-SQUIRREL_MOVE_Y = 8
-
-
-
-
-
-
-
+SQUIRREL_MOVE_Y = 4
 
 
